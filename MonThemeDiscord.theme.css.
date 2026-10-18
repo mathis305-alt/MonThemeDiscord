@@ -1,0 +1,11 @@
+/**
+ * @name MonThemeDiscord
+ * @description Mon premier thème BetterDiscord
+ * @author Mathis
+ * @version 1.0.0
+ */
+
+:root {
+  --background-primary: #171717;
+  --background-secondary: #101010;
+}
